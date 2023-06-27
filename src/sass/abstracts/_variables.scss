@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #3b7eeb;
+  --color-primary-dark: #1e272e;
+
+  --color-secondary: #0984e3;
+  --color-secondary-light: #4ea1f5;
+
+  --color-red: #da4434;
+  --color-red-light: #ef4e3c;
+
+  --color-green: #17be70;
+  --color-green-light: #04d875;
+
+  --color-grey-light-1: #f1f2f6;
+  --color-grey-light-2: #dfe4ea;
+  --color-grey-light-3: #ced6e0;
+
+  --color-grey-dark-1: #747d8c;
+  --color-grey-dark-2: #57606f;
+}
+
+$font-primary: 'Roboto', sans-serif;
+$font-display: 'Nunito', sans-serif;
+
+$bp-largest: 75em; // 1200px
+$bp-large: 68.75em; // 1100px
+$bp-medium: 56.25em; // 900px
+$bp-small: 37.5em; // 600px
+$bp-smallest: 31.25em; // 500px
